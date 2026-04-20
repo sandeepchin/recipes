@@ -18,7 +18,7 @@ List of ingredients (for 4+ servings)
 - sea Salt 
 - black Pepper
 
-##Procedure
+## Procedure
 
 1. Peel the cucumber and dice it into small pieces. Place it in bowl.
 2. Dice the tomatoes and onion into small pieces. Add it to the bowl.
