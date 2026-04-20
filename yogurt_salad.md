@@ -15,8 +15,8 @@ List of ingredients (for 4+ servings)
 - 1 large lime or lemon
 - 2 cilantro sprigs 
 - 2 mint sprigs
-- sea Salt 
-- black Pepper
+- sea salt 
+- black pepper
 
 ## Procedure
 
