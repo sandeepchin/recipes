@@ -74,6 +74,6 @@ For tempering
 
 ### Serving
 
-1. The left over gravy can be used as a side dish and served with the biryani. This combination suits people looking for more spice in their food.
+1. The left over gravy can be used as a side dish and served with the biryani. This combination suits people who are looking for more spice in their food.
 2. Serve the biryani hot with the gravy and [yogurt salad](https://github.com/sandeepchin/recipes/blob/main/yogurt_salad.md). Yogurt salad provides a bit of a cooling effect.
 3. You can also use lime wedges and raw onion slices as garnish. Squeezing a lime wedge over the biryani is a common practice.
